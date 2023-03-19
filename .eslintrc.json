@@ -9,9 +9,10 @@
 		"ecmaVersion": "latest"
 	},
 	"rules": {
-		"linebreak-style": 0,
-		"indent": 0,
-		"no-tabs": 0,
-		"no-console": 0
+		"linebreak-style": "off",
+		"indent": "off",
+		"no-tabs": "off",
+		"no-console": "off",
+		"quotes": "off"
 	}
 }
