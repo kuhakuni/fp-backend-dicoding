@@ -12,7 +12,6 @@
 		"linebreak-style": "off",
 		"indent": "off",
 		"no-tabs": "off",
-		"no-console": "off",
 		"quotes": "off"
 	}
 }

@@ -1,7 +1,7 @@
 {
 	"name": "fp-backend-dicoding",
 	"version": "1.0.1",
-	"description": "",
+	"description": "Final Project Backend Dicoding",
 	"main": "index.js",
 	"scripts": {
 		"start": "node src/server/server.js",
@@ -12,8 +12,12 @@
 		"type": "git",
 		"url": "git+https://github.com/kuhakuni/fp-backend-dicoding.git"
 	},
-	"keywords": [],
-	"author": "",
+	"keywords": [
+		"dicoding",
+		"backend",
+		"final-project"
+	],
+	"author": "kuhakuni",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/kuhakuni/fp-backend-dicoding/issues"
